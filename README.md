@@ -1,2 +1,2 @@
-# keyboardlovist.github.io
-website project
+Welcome to my site...
+as an average skid I like to share some stuff with the world
